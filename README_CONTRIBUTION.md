@@ -43,3 +43,8 @@ Should use `Name_Here` structure
 ### Settings
 
 Should use a `Name_Here` structure
+
+
+
+## Note
+Everything that you submit here will be under the [GPL-3.0 License](https://github.com/Visualistic-Studios/LearningVault/blob/main/LICENSE)

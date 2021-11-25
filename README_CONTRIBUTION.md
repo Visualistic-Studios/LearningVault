@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the Learning Vault!
 Our main goal is to give developers new, quality learning experiences. Anything that you can contribute is a help to *someone*, and very much appreciated by all here! 
 
 `NOTE:`
-Currently this repository is in progress. We've yet to add anything or complete this guide. If you're interested in contributing, please get in contact with one of the admins on the Discord server.
+Currently this repository is in progress. We've yet to add anything or complete this guide. If you're interested in contributing, please get in contact with one of the admins on the [Discord server](https://discord.gg/tFsZScdWKT).
 
 # How to
 ## Overview

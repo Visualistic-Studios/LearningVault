@@ -7,7 +7,7 @@ We hope this is useful to you! Please **[read the license terms](https://github.
 
 ## What's in here?
 
-Lots of stuff! We'll be adding new projects as we create them, or as developers like you add them!
+Nothing yet! We'll be adding new projects as we create them, or as developers like you add them!
 
 ## How can I contribute?
 
